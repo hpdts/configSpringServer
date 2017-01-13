@@ -1,3 +1,3 @@
 # configSpringServer
 
-Properties fro Spring Centralized configuration 
+Properties for Spring Centralized configuration 
